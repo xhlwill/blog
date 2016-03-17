@@ -1,0 +1,22 @@
+{
+  "name": "xhlwill-blog",
+  "version": "1.0.0",
+  "description": "my blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xhlwill/blog.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "xhlwill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xhlwill/blog/issues"
+  },
+  "homepage": "https://github.com/xhlwill/blog#readme"
+}
