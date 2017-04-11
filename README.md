@@ -7,4 +7,4 @@
 5. [sublime vi/vim 模式下按住一个键(比如 j)不会重复的问题](https://github.com/xhlwill/blog/issues/14)
 6. [解决 PhantomJS not found on PATH 的问题](https://github.com/xhlwill/blog/issues/11)
 7. [gem install sass](https://github.com/xhlwill/blog/issues/10)
-8. [AdBlock or Adblock Plus](https://github.com/xhlwill/blog/issues/13)
+8. [AdBlock or Adblock Plus?](https://github.com/xhlwill/blog/issues/13)
