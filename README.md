@@ -10,3 +10,4 @@
 10. [Features of ES2016](https://github.com/xhlwill/blog/issues/20)
 11. [JavaScript 运算符优先级（从高到低）](https://github.com/xhlwill/blog/issues/16)
 12. [git - submodule or subtree - 只选对的不选贵的](https://github.com/xhlwill/blog/issues/21)
+13. [手把手教你之 Git Submodule](https://github.com/xhlwill/blog/issues/30)
